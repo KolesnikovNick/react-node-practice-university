@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "nagevias gamer student",
+    "mongoUri": "mongodb+srv://nagevias:153964@cluster0.7piun.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
